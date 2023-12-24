@@ -1,0 +1,5 @@
+import pandas as pd
+file=pd.read_from(r"C:\Users\J0223008\Desktop\nour.json")
+file.to csv((r"C:\Users\J0223008\Desktop\nour.csv")import pandas as pd
+file=pd.read_from(r"C:\Users\J0223008\Desktop\nour.json")
+file.to csv((r"C:\Users\J0223008\Desktop\nour.csv")
